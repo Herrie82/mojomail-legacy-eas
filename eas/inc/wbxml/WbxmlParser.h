@@ -1,6 +1,6 @@
 // @@@LICENSE
 //
-//      Copyright (c) 2024 WebOS Ports Project
+//      Copyright (c) 2024 Herman van Hazendonk <github.com@herrie.org>
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
